@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/shaotong/.claude/**)",
+      "Bash(claude mcp:*)",
+      "mcp__playwright__browser_navigate",
+      "Bash(gh auth:*)",
+      "Bash(gh api:*)"
+    ]
+  }
+}
